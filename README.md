@@ -40,11 +40,11 @@ Currently, I'm gaining hands-on experience through my software engineering inter
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/Hilalkrkmz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/hilal-korkmaz-87a214285/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="mailto:ornek@mail.com">
+  <a href="mailto:hilal.krkmz025@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
