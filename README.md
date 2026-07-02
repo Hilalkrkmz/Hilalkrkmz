@@ -39,6 +39,7 @@ Currently, I'm gaining hands-on experience through my software engineering inter
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Web+Geli%C5%9Ftirici;A%C3%A7%C4%B1k+Kaynak+Severim;S%C3%BCrekli+%C3%B6%C4%9Freniyorum;Kod+yazmay%C4%B1+seviyorum" alt="Typing SVG" />
 </p>
 
+## 🌐 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/Hilalkrkmz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -63,7 +64,7 @@ Currently, I'm gaining hands-on experience through my software engineering inter
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hilalkrkmz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
