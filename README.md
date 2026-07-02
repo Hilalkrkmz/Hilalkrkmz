@@ -6,7 +6,7 @@ Hi 👋 I'm Hilal Korkmaz
   <b>Software Engineering Student • Java Backend Developer</b>
 </p>
 
----
+
 ## 👩‍💻 About Me
 
 I'm a Software Engineering student passionate about backend development with Java and Spring Boot.
@@ -33,7 +33,7 @@ Currently, I'm gaining hands-on experience through my software engineering inter
 
 </p>
 
----
+
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/Hilalkrkmz" target="_blank">
@@ -48,7 +48,7 @@ Currently, I'm gaining hands-on experience through my software engineering inter
   <img src="https://komarev.com/ghpvc/?username=Hilalkrkmz&label=Profil%20Ziyaret%C3%A7isi&color=2E9EF7&style=flat" alt="profile views" />
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
