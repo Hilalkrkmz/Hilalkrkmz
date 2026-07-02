@@ -39,3 +39,84 @@ Currently, I'm gaining hands-on experience through my software engineering inter
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,maven,linux,postman" />
 </p>
 
+
+
+
+<h1 align="center">Merhaba, ben Ahmet 👋</h1>
+
+<h3 align="center">Full Stack Developer | Sürekli öğrenmeye açık bir yazılımcı</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Web+Geli%C5%9Ftirici;A%C3%A7%C4%B1k+Kaynak+Severim;S%C3%BCrekli+%C3%B6%C4%9Freniyorum;Kod+yazmay%C4%B1+seviyorum" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/Hilalkrkmz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ornek@mail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Hilalkrkmz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Hilalkrkmz" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hilalkrkmz&label=Profil%20Ziyaret%C3%A7isi&color=2E9EF7&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 🚀 Hakkımda
+
+- 🔭 Şu anda **proje-adı** üzerinde çalışıyorum
+- 🌱 Şu anda **React & Node.js** öğreniyorum
+- 👯 Açık kaynak projelere katkıda bulunmak istiyorum
+- 💬 Bana **JavaScript, TypeScript, Python** hakkında soru sorabilirsiniz
+- 📫 Bana ulaşmak için: **ornek@mail.com**
+- ⚡ İlginç gerçek: Kahve olmadan kod yazamam ☕
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github,figma,docker,mongodb,mysql,vscode" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hilalkrkmz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilalkrkmz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilalkrkmz&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hilalkrkmz&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hilalkrkmz&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</p>
+
+<p align="center">⭐️ Bu profili beğendiysen, projelerime de göz atmayı unutma!</p>
