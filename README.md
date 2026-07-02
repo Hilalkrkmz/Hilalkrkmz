@@ -18,6 +18,7 @@ I enjoy designing RESTful APIs, working with databases, and building scalable ba
 
 Currently, I'm gaining hands-on experience through my software engineering internship while continuously improving my backend development skills.
 
+## My skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,maven,linux,postman" />
 </p>
