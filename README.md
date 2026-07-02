@@ -4,11 +4,10 @@
 </p>
 
 ## 👩‍💻 About Me
-•I'm a Software Engineering student passionate about backend development with Java and Spring Boot.
-•I enjoy designing RESTful APIs, working with databases, and building scalable backend applications.
-•Currently, I'm gaining hands-on experience through my software engineering 
-internship while continuously improving my backend development skills.
-
+-  Software Engineering student passionate about backend development with Java and Spring Boot
+-  Enjoy designing RESTful APIs, working with databases, and building scalable backend applications
+-  Currently gaining hands-on experience through my software engineering internship
+-  Continuously improving my backend development skills
 
 ## 🛠 Tech Stack
 <p align="center">
