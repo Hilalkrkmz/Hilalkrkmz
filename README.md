@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:9B30FF&height=200&section=header&text=Hilal%20Karakoyun&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici&descAlignY=55&descSize=20"
+
 <h1 align="center">
 Hi 👋 I'm Hilal Korkmaz
 </h1>
