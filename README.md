@@ -22,4 +22,4 @@ I enjoy designing RESTful APIs, working with databases, and building scalable ba
 
 Currently, I'm gaining hands-on experience through my software engineering internship while continuously improving my backend development skills.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilalkrkmz)](https://github.com/Hilalkrkmz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilalkrkmz&layout=compact&theme=tokyonight)
