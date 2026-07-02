@@ -6,8 +6,24 @@ Hi 👋 I'm Hilal Korkmaz
   <strong>Building backend applications with Java</strong>
 </p>
 
+
+<p align="center">
+  <b>Software Engineering Student • Java Backend Developer</b>
+</p>
+<p align="center">
+Building scalable backend applications with Java & Spring Boot.
+</p>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B0AF7&width=435&lines=Software+Engineering+Student++" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </p>
 
 ## 👩‍💻 About Me
