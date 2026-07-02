@@ -5,12 +5,13 @@ Hi 👋 I'm Hilal Korkmaz
 <h3 align="center">
  Software Engineering Student | Java Backend Developer  
 </h3>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+Backend+Developer+;Spring+Boot+Developer;Building+reliable+backend+systems+" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<img src="B[![My Skills](https://skillicons.dev/icons?i=git,java,mysql,postman,postgres,spring,linux,maven)](https://skillicons.dev)"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,maven,linux,postman" />
 </p>
 
 ## 👩‍💻 About Me
