@@ -3,11 +3,11 @@ Hi 👋 I'm Hilal Korkmaz
 </h1>
 
 <p align="center">
-  <strong>Building backend applications with Java.</strong>
+  <strong>Building backend applications with Java</strong>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering+Student+%7C+Java+Backend+Developer++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B0AF7&width=435&lines=Software+Engineering+Student++" alt="Typing SVG" /></a>
 </p>
 
 ## 👩‍💻 About Me
