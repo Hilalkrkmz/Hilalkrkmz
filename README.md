@@ -6,7 +6,7 @@ Hi 👋 I'm Hilal Korkmaz
   <b>Software Engineering Student • Java Backend Developer</b>
 </p>
 
-
+---
 ## 👩‍💻 About Me
 
 I'm a Software Engineering student passionate about backend development with Java and Spring Boot.
@@ -14,7 +14,7 @@ I'm a Software Engineering student passionate about backend development with Jav
 I enjoy designing RESTful APIs, working with databases, and building scalable backend applications.
 
 Currently, I'm gaining hands-on experience through my software engineering internship while continuously improving my backend development skills.
-
+---
 ## 🛠 My skills
 <p align="center">
 
@@ -33,12 +33,7 @@ Currently, I'm gaining hands-on experience through my software engineering inter
 
 </p>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Web+Geli%C5%9Ftirici;A%C3%A7%C4%B1k+Kaynak+Severim;S%C3%BCrekli+%C3%B6%C4%9Freniyorum;Kod+yazmay%C4%B1+seviyorum" alt="Typing SVG" />
-</p>
-
+---
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/Hilalkrkmz" target="_blank">
@@ -51,15 +46,6 @@ Currently, I'm gaining hands-on experience through my software engineering inter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hilalkrkmz&label=Profil%20Ziyaret%C3%A7isi&color=2E9EF7&style=flat" alt="profile views" />
-</p>
-
-
----
-
-### 🛠️ Kullandığım Teknolojiler
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github,figma,docker,mongodb,mysql,vscode" />
 </p>
 
 ---
