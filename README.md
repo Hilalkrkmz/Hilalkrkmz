@@ -4,7 +4,7 @@
 </p>
 
 ## 👩‍💻 About Me
--  Software Engineering student passionate about backend development with Java and Spring Boot
+-  Software Engineering student focused on backend development with Java and Spring Boot
 -  Enjoy designing RESTful APIs, working with databases, and building scalable backend applications
 -  Currently gaining hands-on experience through my software engineering internship
 -  Continuously improving my backend development skills
